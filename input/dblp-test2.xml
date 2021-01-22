@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+    <article mdate="2020-06-25" key="tr/meltdown/s18" publtype="informal">
+        <author>Paul Kocher</author>
+        <author>Daniel Genkin</author>
+        <author>Daniel Gruss</author>
+        <author>Werner Haas 0004</author>
+        <author>Mike Hamburg</author>
+        <author>Moritz Lipp</author>
+        <author>Stefan Mangard</author>
+        <author>Thomas Prescher 0002</author>
+        <author>Michael Schwarz 0001</author>
+        <author>Yuval Yarom</author>
+        <title>Spectre Attacks: Exploiting Speculative Execution.</title>
+        <journal>meltdownattack.com</journal>
+        <year>2018</year>
+        <ee type="oa">https://spectreattack.com/spectre.pdf</ee>
+    </article>
+    <article mdate="2020-06-25" key="tr/meltdown/m18" publtype="informal">
+        <author>Moritz Lipp</author>
+        <author>Michael Schwarz 0001</author>
+        <author>Daniel Gruss</author>
+        <author>Thomas Prescher 0002</author>
+        <author>Werner Haas 0004</author>
+        <author>Stefan Mangard</author>
+        <author>Paul Kocher</author>
+        <author>Daniel Genkin</author>
+        <author>Yuval Yarom</author>
+        <author>Mike Hamburg</author>
+        <title>Meltdown</title>
+        <journal>meltdownattack.com</journal>
+        <ee type="oa">https://meltdownattack.com/meltdown.pdf</ee>
+        <year>2018</year>
+    </article>
+    <book mdate="2019-05-27" key="tr/acm/CS2013">
+        <title>Computer Science Curricula 2013</title>
+        <publisher>ACM Press and IEEE Computer Society Press</publisher>
+        <year>2013</year>
+        <ee>https://doi.org/10.1145/2534860</ee>
+        <isbn>978-1-4503-2309-3</isbn>
+    </book>
+    <article mdate="2019-10-25" key="tr/gte/TR-0263-08-94-165" publtype="informal">
+        <author>Frank Manola</author>
+        <title>An Evaluation of Object-Oriented DBMS Developments: 1994 Edition.</title>
+        <journal>GTE Laboratories Incorporated</journal>
+        <volume>TR-0263-08-94-165</volume>
+        <month>August</month>
+        <year>1994</year>
+        <url>db/journals/gtelab/index.html#TR-0263-08-94-165</url>
+    </article>
+    <article mdate="2019-10-25" key="tr/gte/TR-0222-10-92-165" publtype="informal">
+        <author>Michael L. Brodie</author>
+        <author>Michael Stonebraker</author>
+        <title>DARWIN: On the Incremental Migration of Legacy Information Systems</title>
+        <journal>GTE Laboratories Incorporated</journal>
+        <volume>TR-0222-10-92-165</volume>
+        <month>March</month>
+        <year>1993</year>
+        <url>db/journals/gtelab/index.html#TR-0222-10-92-165</url>
+        <note>This report is also available as a Technical Memorandum of Electronics Research Laboratory, College of Engineering, University of California, Berkeley.</note>
+    </article>
+    <article mdate="2019-10-25" key="tr/gte/TR-0174-12-91-165" publtype="informal">
+        <author>Mark F. Hornick</author>
+        <author>Joe D. Morrison</author>
+        <author>Farshad Nayeri</author>
+        <title>Integrating Heterogeneous, Autonomous, Distributed Applications Using the DOM Prototype.</title>
+        <journal>GTE Laboratories Incorporated</journal>
+        <volume>TR-0174-12-91-165</volume>
+        <month>December</month>
+        <year>1991</year>
+        <url>db/journals/gtelab/index.html#TR-0174-12-91-165</url>
+    </article>
+    <article mdate="2019-10-25" key="tr/gte/TM-0149-06-89-165" publtype="informal">
+        <author>Frank Manola</author>
+        <title>Object Model Capabilities For Distributed Object Management.</title>
+        <journal>GTE Laboratories Incorporated</journal>
+        <volume>TM-0149-06-89-165</volume>
+        <month>June</month>
+        <year>1989</year>
+        <url>db/journals/gtelab/index.html#TM-0149-06-89-165</url>
+    </article>
+    <article mdate="2019-10-25" key="tr/gte/TR-0310-11-95-165" publtype="informal">
+        <author>Frank Manola</author>
+        <title>Integrating Object-Oriented Applications and Middleware with Relational Databases.</title>
+        <journal>GTE Laboratories Incorporated</journal>
+        <volume>TR-0310-11-95-165</volume>
+        <month>November</month>
+        <year>1995</year>
+        <url>db/journals/gtelab/index.html#TR-0310-11-95-165</url>
+    </article>
+    <article mdate="2019-10-25" key="tr/gte/TR-0146-06-91-165" publtype="informal">
+        <author>Alejandro P. Buchmann</author>
+        <author>M. Tamer &Ouml;zsu</author>
+        <author>Dimitrios Georgakopoulos</author>
+        <title>Towards a Transaction Management System for DOM.</title>
+        <journal>GTE Laboratories Incorporated</journal>
+        <volume>TR-0146-06-91-165</volume>
+        <month>June</month>
+        <year>1991</year>
+        <url>db/journals/gtelab/index.html#TR-0146-06-91-165</url>
+    </article>
+    <article mdate="2019-10-25" key="tr/gte/TR-0231-08-93-165" publtype="informal">
+        <author>Frank Manola</author>
+        <author>Sandra Heiler</author>
+        <title>A 'RISC' Object Model for Object System Interoperation: Concepts and Applications.</title>
+        <journal>GTE Laboratories Incorporated</journal>
+        <volume>TR-0231-08-93-165</volume>
+        <month>August</month>
+        <year>1993</year>
+        <url>db/journals/gtelab/index.html#TR-0231-08-93-165</url>
+    </article>
+    <article mdate="2019-10-25" key="tr/gte/TR-0244-12-93-165" publtype="informal">
+        <author>Frank Manola</author>
+        <title>MetaObject Protocol Concepts for a RISC Object Model.</title>
+        <journal>GTE Laboratories Incorporated</journal>
+        <volume>TR-0244-12-93-165</volume>
+        <month>December</month>
+        <year>1993</year>
+        <url>db/journals/gtelab/index.html#TR-0244-12-93-165</url>
+</article><article mdate="2019-10-25" key="tr/gte/TR-0169-12-91-165" publtype="informal">
+    <author>Frank Manola</author>
+    <title>Object Data Language Facilities for Multimedia Data Types.</title>
+    <journal>GTE Laboratories Incorporated</journal>
+    <volume>TR-0169-12-91-165</volume>
+    <month>December</month>
+    <year>1991</year>
+    <url>db/journals/gtelab/index.html#TR-0169-12-91-165</url>
+</article><article mdate="2019-10-25" key="tr/gte/TM-0332-11-90-165" publtype="informal">
+    <author>Frank Manola</author>
+    <author>Mark F. Hornick</author>
+    <author>Alejandro P. Buchmann</author>
+    <title>Object Data Model Facilities for Multimedia Data Types.</title>
+    <journal>GTE Laboratories Incorporated</journal>
+    <volume>TM-0332-11-90-165</volume>
+    <month>December</month>
+    <year>1990</year>
+    <url>db/journals/gtelab/index.html#TM-0332-11-90-165</url>
+</article><article mdate="2019-10-25" key="tr/gte/TM-0014-06-88-165" publtype="informal">
+    <author>Frank Manola</author>
+    <title>Distributed Object Management Technology.</title>
+    <journal>GTE Laboratories Incorporated</journal>
+    <volume>TM-0014-06-88-165</volume>
+    <month>June</month>
+    <year>1988</year>
+    <url>db/journals/gtelab/index.html#TM-0014-06-88-165</url>
+</article><article mdate="2019-10-25" key="tr/gte/TR-0236-09-93-165" publtype="informal">
+    <author>Farshad Nayeri</author>
+    <author>Benjamin Hurwitz</author>
+    <title>Experiments with Dispatching in a Distributed Object System.</title>
+    <journal>GTE Laboratories Incorporated</journal>
+    <volume>TR-0236-09-93-165</volume>
+    <month>July</month>
+    <year>1993</year>
+    <url>db/journals/gtelab/index.html#TR-0236-09-93-165</url>
+</article><article mdate="2017-06-08" key="tr/ucb/erl-m79-28" publtype="informal">
+    <author>Michael Stonebraker</author>
+    <title>Muffin: A Distributed Database Machine</title>
+    <journal>University of California at Berkeley</journal>
+    <volume>UCB/ERL M79/28</volume>
+    <month>May</month>
+    <year>1979</year>
+</article><article mdate="2019-10-25" key="tr/sql/X3H2-90-412" publtype="informal">
+    <author>David Beech</author>
+    <author>Cetin Ozbutun</author>
+    <title>Object Oriented DBMS as a Generalization of Relational DBMS</title>
+    <journal>ANSI X3H2</journal>
+    <volume>X3H2-90-412</volume>
+    <year>1990</year>
+    <url>db/conf/x3h2/index.html#X3H2-90-412</url>
+    <cdrom>SQL/X3H2-90-412.pdf</cdrom>
+</article><article mdate="2019-10-25" key="tr/sql/X3H2-91-133rev1" publtype="informal">
+    <author>Krishna G. Kulkarni</author>
+    <author>Jim Melton</author>
+    <author>Jonathan Bauer</author>
+    <author>Mike Kelley</author>
+    <title>Inheritance for ADTs (revised)</title>
+    <journal>ANSI X2H2</journal>
+    <volume>DBL:KAW-006 X3H2-91-133rev1</volume>
+    <month>July</month>
+    <year>1991</year>
+    <url>db/conf/x3h2/index.html#X3H2-91-133rev1</url>
+    <cdrom>SQL/x3h2-91-133rev1.pdf</cdrom>
+</article><article mdate="2019-10-25" key="tr/sql/X3H2-90-292" publtype="informal">
+    <author>Phil Shaw</author>
+    <title>Modification of User Defined Types</title>
+    <journal>ANSI X3H2</journal>
+    <volume>X3H2-90-292</volume>
+    <year>1990</year>
+    <url>db/conf/x3h2/index.html#X3H2-90-292</url>
+    <cdrom>SQL/X3H2-90-292.pdf</cdrom>
+</article><article mdate="2019-10-25" key="tr/sql/X3H2-91-083rev1" publtype="informal">
+    <author>Jim Melton</author>
+    <author>Jonathan Bauer</author>
+    <author>Krishna G. Kulkarni</author>
+    <title>Object ADTs (with improvements for Value ADTs)</title>
+    <journal>ANSI X3H2</journal>
+    <volume>DBL:ARL-029 X3H2-91-083rev1</volume>
+    <month>April</month>
+    <year>1991</year>
+    <url>db/conf/x3h2/index.html#X3H2-91-083rev1</url>
+    <cdrom>SQL/X3H2-91-083rev1.pdf</cdrom>
+</article><article mdate="2019-10-25" key="tr/sql/X3H2-92-062" publtype="informal">
+    <author>David Beech</author>
+    <title>Unification of Value and Object ADTs</title>
+    <journal>ANSI X3H2</journal>
+    <volume>X3H2-92-062</volume>
+    <year>1992</year>
+    <url>db/conf/x3h2/index.html#X3H2-92-062</url>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS191" publtype="informal">
+    <author>Rolf Sander</author>
+    <title>Die Repr&auml;sentation r&auml;umlichen Wissens und die Behandlung von Einbettungsproblemen mit Quadtreedepiktionen</title>
+    <journal>IWBS Report</journal>
+    <volume>191</volume>
+    <year>1991</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG59" publtype="informal">
+    <author>Thomas Ludwig 0001</author>
+    <title>Algebraical Optimization of FTA-Expressions</title>
+    <journal>LILOG-Report</journal>
+    <volume>59</volume>
+    <year>1988</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG15" publtype="informal">
+    <author>Werner Emde</author>
+    <author>Claus-Rainer Rollinger</author>
+    <title>Wissensrepr&auml;sentation und Maschinelles Lernen</title>
+    <journal>LILOG-Report</journal>
+    <volume>15</volume>
+    <year>1987</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG40" publtype="informal">
+    <author>Christoph Beierle</author>
+    <author>Udo Pletat</author>
+    <author>Hans Uszkoreit</author>
+    <title>An Algebraic Characterization of STUF</title>
+    <journal>LILOG-Report</journal>
+    <volume>40</volume>
+    <year>1988</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS225" publtype="informal">
+    <author>Ulrike Rackow</author>
+    <author>Ido Dagan</author>
+    <author>Ulrike Schwall</author>
+    <title>A Combined Symbolic-Empirical Apprach for the Automatic Translation of Compounds</title>
+    <journal>IWBS Report</journal>
+    <volume>225</volume>
+    <year>1992</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOGM2" publtype="informal">
+    <author>Brigitte Bartsch-Sp&ouml;rl</author>
+    <title>Zur Systemarchitektur von LILOG</title>
+    <journal>LILOG-Memo</journal>
+    <volume>2</volume>
+    <year>1987</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG61" publtype="informal">
+    <author>Erich Gehlen</author>
+    <author>Burkhard Kehrbusch</author>
+    <title>Mengenorientierte Auswertung von Anfragen in der Logikprogrammiersprache PROLOG</title>
+    <journal>LILOG-Report</journal>
+    <volume>61</volume>
+    <year>1988</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG53" publtype="informal">
+    <author>Markus H&ouml;hfeld</author>
+    <author>Gert Smolka</author>
+    <title>Definite Resolution over Constraint Languages</title>
+    <journal>LILOG-Report</journal>
+    <volume>53</volume>
+    <year>1988</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOGM9" publtype="informal">
+    <author>Birgit Wesche</author>
+    <title>Dokumentation der Syntax der LILOG-Grammatik</title>
+    <journal>LILOG-Memo</journal>
+    <volume>9</volume>
+    <year>1988</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG45" publtype="informal">
+    <author>Christopher Habel</author>
+    <title>Cognitive Linguistics: The Processing of Spatial Concepts</title>
+    <journal>LILOG-Report</journal>
+    <volume>45</volume>
+    <year>1988</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG56" publtype="informal">
+    <author>Thomas Ludwig 0001</author>
+    <author>Bernd Walter</author>
+    <author>Michael Ley</author>
+    <author>Albert Maier</author>
+    <author>Erich Gehlen</author>
+    <title>LILOG-DB: Database Support for Knowledge-Based Systems</title>
+    <journal>LILOG-Report</journal>
+    <volume>56</volume>
+    <year>1988</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS201" publtype="informal">
+    <author>Thomas Ludwig 0001</author>
+    <author>Stefan Benzschawel</author>
+    <author>Erich Gehlen</author>
+    <title>Differential Closure Computation for General Horn-Clause Queries</title>
+    <journal>IWBS Report</journal>
+    <volume>201</volume>
+    <year>1991</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/G320-6590" publtype="informal">
+    <title>SQL/Data System for VSE: A Relational Data System for Application Development.</title>
+    <journal>IBM Publication</journal>
+    <volume>G320-6590</volume>
+    <publisher>IBM Corporation, White Plains, NY</publisher>
+    <year>1981</year>
+    <note>republished on "ACM SIGMOD Anthology"</note>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS111" publtype="informal">
+    <author>Egon B&ouml;rger</author>
+    <title>A Logical Operational Semantics of Full Prolog</title>
+    <journal>IWBS Report</journal>
+    <volume>111</volume>
+    <year>1990</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG60" publtype="informal">
+    <author>Michael Ley</author>
+    <title>Ein Fact Manager zur persistenten Speicherung variabel strukturierter komplexer Objekte</title>
+    <journal>LILOG-Report</journal>
+    <volume>60</volume>
+    <year>1988</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS228" publtype="informal">
+    <author>Roland Seiffert</author>
+    <title>How could a good system of practical NLP look like?</title>
+    <journal>IWBS Report</journal>
+    <volume>228</volume>
+    <year>1992</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS188" publtype="informal">
+    <author>Gisela Sch&ouml;pke</author>
+    <title>M&ouml;glichkeiten des Einsatzes eines dreiwertigen Theorembeweisers</title>
+    <journal>IWBS Report</journal>
+    <volume>188</volume>
+    <year>1991</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS87" publtype="informal">
+    <author>Stefan B&ouml;ttcher</author>
+    <title>Attribute Inheritance Implemented on Top of a Relational Database System</title>
+    <journal>IWBS Report</journal>
+    <volume>87</volume>
+    <year>1989</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS177" publtype="informal">
+    <author>Ulrike Schwall</author>
+    <title>LMT - Machine Translation Demonstration</title>
+    <journal>IWBS Report</journal>
+    <volume>177</volume>
+    <year>1991</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG3" publtype="informal">
+    <author>Rudi Studer</author>
+    <author>Bernd Walter</author>
+    <title>Implementation Aspects of a Natural Language Understanding System in a Prolog/DB Environment</title>
+    <journal>LILOG-Report</journal>
+    <volume>3</volume>
+    <year>1986</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS154" publtype="informal">
+    <author>Albert Maier</author>
+    <author>Michael Ley</author>
+    <author>Erich Gehlen</author>
+    <title>Sort Processing in a Deductive Database System</title>
+    <journal>IWBS Report</journal>
+    <volume>154</volume>
+    <year>1991</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS150" publtype="informal">
+    <author>Thomas Ludwig 0001</author>
+    <author>Bernd Walter</author>
+    <title>EFTA: A Database Retrieval Algebra for Feature Terms</title>
+    <journal>IWBS Report</journal>
+    <volume>150</volume>
+    <year>1991</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS165" publtype="informal">
+    <author>Toni Bollinger</author>
+    <author>Udo Pletat</author>
+    <title>Knowledge in Operation</title>
+    <journal>IWBS Report</journal>
+    <volume>165</volume>
+    <year>1991</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS163" publtype="informal">
+    <author>Christoph Beierle</author>
+    <title>An Overview on Planning Applications in PROTOS-L</title>
+    <journal>IWBS Report</journal>
+    <volume>163</volume>
+    <year>1991</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG34" publtype="informal">
+    <author>Carola Eschenbach</author>
+    <title>&Uuml;ber Ans&auml;tze zur Darstellung von Konzepten und Prototypen</title>
+    <journal>LILOG-Report</journal>
+    <volume>34</volume>
+    <year>1988</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS68" publtype="informal">
+    <author>Manfred Schmidt-Schau&szlig;</author>
+    <author>Gert Smolka</author>
+    <title>Attributive Concept Descriptions with Unions and Complements</title>
+    <journal>IWBS Report</journal>
+    <volume>68</volume>
+    <year>1989</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS166" publtype="informal">
+    <author>Hans-Joachim Goltz</author>
+    <title>Ein praktischer Algorithmus f&uuml;r die E-Unifikation</title>
+    <journal>IWBS Report</journal>
+    <volume>166</volume>
+    <year>1991</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG5" publtype="informal">
+    <author>Claus-Rainer Rollinger</author>
+    <title>Simulation Sprachlichen Verstehens: Generelle Probleme bei der semantischen Interpretation der nat&uuml;rlichen Sprache</title>
+    <journal>LILOG-Report</journal>
+    <volume>5</volume>
+    <year>1986</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS126" publtype="informal">
+    <author>Otthein Herzog</author>
+    <title>The Institute for Knowledge Based Systems in the IBM Germany Scientific Center</title>
+    <journal>IWBS Report</journal>
+    <volume>126</volume>
+    <year>1990</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS208" publtype="informal">
+    <author>Bernhard Beckert</author>
+    <title>Konzeption und Implementierung von Gleichheit f&uuml;r einen tableau-basierten Theorem-Beweiser</title>
+    <journal>IWBS Report</journal>
+    <volume>208</volume>
+    <year>1992</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS89" publtype="informal">
+    <author>Christoph Beierle</author>
+    <author>Stefan B&ouml;ttcher</author>
+    <title>PROTOS-L: Towards a Knowledge Base Programming Language</title>
+    <journal>IWBS Report</journal>
+    <volume>89</volume>
+    <year>1989</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS212" publtype="informal">
+    <author>Stefan J. Schierholz</author>
+    <title>Syntaktische Informationseinheiten zu deutschen Adjektiven</title>
+    <journal>IWBS Report</journal>
+    <volume>212</volume>
+    <year>1992</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG37" publtype="informal">
+    <author>Christoph Beierle</author>
+    <author>Udo Pletat</author>
+    <title>On the Interpretation of Equality, Sorts, and Logic Programming</title>
+    <journal>LILOG-Report</journal>
+    <volume>37</volume>
+    <year>1987</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS237" publtype="informal">
+    <author>Birgit Wendholt</author>
+    <title>DInG - ein Dom&auml;nen-orientierter Inkrementeller und Integrierter Generator f&uuml;r koh&auml;rente Texte</title>
+    <journal>IWBS Report</journal>
+    <volume>237</volume>
+    <year>1992</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS180" publtype="informal">
+    <author>Gudrun Klose</author>
+    <title>Prozedurale Semantik. Repr&auml;sentation der Sprechergegenwart.</title>
+    <journal>IWBS Report</journal>
+    <volume>180</volume>
+    <year>1991</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOGM8" publtype="informal">
+    <author>Michael Herweg</author>
+    <author>Mohammed Nadjib Khenkhar</author>
+    <author>Simone Pribbenow</author>
+    <author>Klaus Rehk&auml;mper</author>
+    <title>Elsa&szlig;-Wanderung f&uuml;r Linguisten: Exemplarische Analyse und Repr&auml;sentation eines Satzes aus einer Reisebeschreibung</title>
+    <journal>LILOG-Memo</journal>
+    <volume>8</volume>
+    <year>1988</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS220" publtype="informal">
+    <author>Anja Theuner</author>
+    <title>"Dictionary Dialog" - Entwurf des Funktionsumfangs f&uuml;r eine Benutzerschnittstelle eines integrierten maschinellen/maschinenunterst&uuml;tzten &Uuml;bersetzungssystems und prototypische Erstellung der Bildschirmfolge f&uuml;r die Funktion "Semantische Relation"</title>
+    <journal>IWBS Report</journal>
+    <volume>220</volume>
+    <year>1992</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOGM4" publtype="informal">
+    <author>Brigitte Bartsch-Sp&ouml;rl</author>
+    <title>Zur Behandlung komplexer Objekte in LILOG</title>
+    <journal>LILOG-Memo</journal>
+    <volume>4</volume>
+    <year>1987</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG26" publtype="informal">
+    <author>Peter H. Schmitt</author>
+    <title>Computational aspects of three-valued logic</title>
+    <journal>LILOG-Report</journal>
+    <volume>26</volume>
+    <year>1987</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG38" publtype="informal">
+    <author>Christoph Beierle</author>
+    <author>Udo Pletat</author>
+    <title>Semantics of Logic Programs with Equational Abstract Data Type Specifications</title>
+    <journal>LILOG-Report</journal>
+    <volume>38</volume>
+    <year>1988</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS157" publtype="informal">
+    <author>Claudia Maienborn</author>
+    <title>Processing Spatial Knowledge in LILOG</title>
+    <journal>IWBS Report</journal>
+    <volume>157</volume>
+    <year>1991</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS231" publtype="informal">
+    <author>Brigitte Bl&auml;ser</author>
+    <author>Ulrike Schwall</author>
+    <author>Angelika Storrer</author>
+    <title>A Reusable Lexical Database Tool for Machine Translation</title>
+    <journal>IWBS Report</journal>
+    <volume>231</volume>
+    <year>1992</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS146" publtype="informal">
+    <author>Esther K&ouml;nig</author>
+    <title>Der Lambek-Kalk&uuml;l. Eine Logik f&uuml;r lexikalische Grammatiken</title>
+    <journal>IWBS Report</journal>
+    <volume>146</volume>
+    <year>1990</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS199" publtype="informal">
+    <author>Claudia Mrotzek</author>
+    <title>Parenthetische Konstruktionen des Deutschen.</title>
+    <journal>IWBS Report</journal>
+    <volume>199</volume>
+    <year>1991</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS241" publtype="informal">
+    <author>Birgit Wesche</author>
+    <title>Symmetric Coordination: An Alternative Theory of Phrase Structure</title>
+    <journal>IWBS Report</journal>
+    <volume>241</volume>
+    <year>1992</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG8" publtype="informal">
+    <author>Stefan B&ouml;rner</author>
+    <author>Rudi Studer</author>
+    <title>An Approach to Manage Large Inheritance Networks</title>
+    <journal>LILOG-Report</journal>
+    <volume>8</volume>
+    <year>1987</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS159" publtype="informal">
+    <author>Lutz Voelkel</author>
+    <title>On the Problem of Masking Special Errors by Serial Signature Analysis</title>
+    <journal>IWBS Report</journal>
+    <volume>151</volume>
+    <year>1999</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG27" publtype="informal">
+    <author>Peter H. Schmitt</author>
+    <title>Eine dreiwertige Logik zur Verarbeitung partieller Information</title>
+    <journal>LILOG-Report</journal>
+    <volume>27</volume>
+    <year>1987</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS132" publtype="informal">
+    <author>Stefan B&ouml;ttcher</author>
+    <title>An Inference Engine for Function Free Logic Programs</title>
+    <journal>IWBS Report</journal>
+    <volume>132</volume>
+    <year>1990</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS190" publtype="informal">
+    <author>Kai-Uwe Carstensen</author>
+    <title>Aspekte der Generierung von Wegbeschreibungen</title>
+    <journal>IWBS Report</journal>
+    <volume>190</volume>
+    <year>1991</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS114" publtype="informal">
+    <author>Ulrike Weiland</author>
+    <author>Martin H&uuml;bner</author>
+    <title>Das Projekt EXCEPT: Expert-System for Computer-Aided Environmental Planning Tasks</title>
+    <journal>IWBS Report</journal>
+    <volume>114</volume>
+    <year>1990</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS144" publtype="informal">
+    <author>Egon B&ouml;rger</author>
+    <author>Peter H. Schmitt</author>
+    <title>A Formal Operational Semantics for PROLOG III: Using Dynamic Algebras</title>
+    <journal>IWBS Report</journal>
+    <volume>144</volume>
+    <year>1990</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS83" publtype="informal">
+    <author>Michael Czymmeck</author>
+    <title>Subsumtion f&uuml;r eine erweiterte attributive Sortenbeschreibungssprache</title>
+    <journal>IWBS Report</journal>
+    <volume>83</volume>
+    <year>1989</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS121" publtype="informal">
+    <author>Michael Tarnowski</author>
+    <title>Mathematische Grundlagen der formalen Linguistik - Ein Kompendium</title>
+    <journal>IWBS Report</journal>
+    <volume>121</volume>
+    <year>1990</year>
+    <publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG29" publtype="informal">
+    <author>Helmar Gust</author>
+    <author>Petra Ludewig</author>
+    <author>Mechthild Rickheit</author>
+    <title>Die Struktur des Lexikons f&uuml;r LILOG</title>
+    <journal>LILOG-Report</journal>
+    <volume>29</volume>
+    <year>1988</year>
+    <publisher>IBM Deutschland GmbH</publisher>
+</article>
+    <incollection mdate="2017-07-12" key="reference/crypt/X11ld" publtype="encyclopedia">
+        <title>Secure Computer System Model.</title>
+        <pages>1102</pages>
+        <year>2011</year>
+        <booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+        <ee>https://doi.org/10.1007/978-1-4419-5906-5_1336</ee>
+        <crossref>reference/crypt/2011</crossref>
+        <url>db/reference/crypt/crypt2011.html#X11ld</url>
+    </incollection><incollection mdate="2017-07-12" key="reference/crypt/X11fs" publtype="encyclopedia">
+    <title>Identity Proof.</title>
+    <pages>587</pages>
+    <year>2011</year>
+    <booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+    <ee>https://doi.org/10.1007/978-1-4419-5906-5_1301</ee>
+    <crossref>reference/crypt/2011</crossref>
+    <url>db/reference/crypt/crypt2011.html#X11fs</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Thornton11" publtype="encyclopedia">
+    <author>Mitchell A. Thornton</author>
+    <title>Keyboard Dynamics.</title>
+    <pages>688-691</pages>
+    <year>2011</year>
+    <booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+    <ee>https://doi.org/10.1007/978-1-4419-5906-5_783</ee>
+    <crossref>reference/crypt/2011</crossref>
+    <url>db/reference/crypt/crypt2011.html#Thornton11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Soete11c" publtype="encyclopedia">
+    <author>Marijke De Soete</author>
+    <title>Derived Key.</title>
+    <pages>328</pages>
+    <year>2011</year>
+    <booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+    <ee>https://doi.org/10.1007/978-1-4419-5906-5_284</ee>
+    <crossref>reference/crypt/2011</crossref>
+    <url>db/reference/crypt/crypt2011.html#Soete11c</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Pedersen05c" publtype="encyclopedia">
+    <author>Torben P. Pedersen</author>
+    <title>PKIX - Public Key Infrastructure (X.509).</title>
+    <year>2005</year>
+    <booktitle>Encyclopedia of Cryptography and Security</booktitle>
+    <ee>https://doi.org/10.1007/0-387-23483-7_302</ee>
+    <crossref>reference/crypt/2005</crossref>
+    <url>db/reference/crypt/crypt2005.html#Pedersen05c</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Subramanian11" publtype="encyclopedia">
+    <author>Nary Subramanian</author>
+    <title>Biometric Authentication.</title>
+    <pages>86-90</pages>
+    <year>2011</year>
+    <booktitle>Encyclopedia of Cryptography and Security (2nd Ed.)</booktitle>
+    <ee>https://doi.org/10.1007/978-1-4419-5906-5_775</ee>
+    <crossref>reference/crypt/2011</crossref>
+    <url>db/reference/crypt/crypt2011.html#Subramanian11</url>
+</incollection><incollection mdate="2017-07-12" key="reference/crypt/Bleumer05h" publtype="encyclopedia">
+    <author>Gerrit Bleumer</author>
+    <title>DC Network.</title>
+    <year>2005</year>
+    <booktitle>Encyclopedia of Cryptography and Security</booktitle>
+    <ee>https://doi.org/10.1007/0-387-23483-7_97</ee>
+    <crossref>reference/crypt/2005</crossref>
+    <url>db/reference/crypt/crypt2005.html#Bleumer05h</url>
+</incollection>
+    <inproceedings mdate="2017-05-20" key="journals/lncs/BollingerLP91">
+        <author>Toni Bollinger</author>
+        <author>Sven Lorenz</author>
+        <author>Udo Pletat</author>
+        <title>The LILOG Inference Engine.</title>
+        <pages>402-427</pages>
+        <year>1991</year>
+        <crossref>journals/lncs/1991-546</crossref>
+        <booktitle>Text Understanding in LILOG</booktitle>
+        <url>db/journals/lncs/lncs546.html#BollingerLP91</url>
+        <ee>https://doi.org/10.1007/3-540-54594-8_72</ee>
+    </inproceedings><inproceedings mdate="2017-05-20" key="journals/lncs/CarstensenS91">
+    <author>Kai-Uwe Carstensen</author>
+    <author>Geoffrey Simmons</author>
+    <title>Why a Hill Can't be a Valley: Representing Gestalt and Position Properties of Objects with Object Schemata.</title>
+    <pages>632-644</pages>
+    <year>1991</year>
+    <crossref>journals/lncs/1991-546</crossref>
+    <booktitle>Text Understanding in LILOG</booktitle>
+    <url>db/journals/lncs/lncs546.html#CarstensenS91</url>
+    <ee>https://doi.org/10.1007/3-540-54594-8_83</ee>
+</inproceedings><inproceedings mdate="2017-05-20" key="journals/lncs/FlaterY93">
+    <author>David W. Flater</author>
+    <author>Yelena Yesha</author>
+    <title>Towards Flexible Distributed Information Retrieval.</title>
+    <pages>259-276</pages>
+    <year>1993</year>
+    <crossref>journals/lncs/1993-759</crossref>
+    <booktitle>Advanced Database Systems</booktitle>
+    <url>db/journals/lncs/lncs759.html#FlaterY93</url>
+    <ee>https://doi.org/10.1007/3-540-57507-3_13</ee>
+</inproceedings><inproceedings mdate="2017-06-06" key="journals/lncs/RollingerH91">
+    <author>Claus-Rainer Rollinger</author>
+    <author orcid="0000-0003-4781-2551">Otthein Herzog</author>
+    <title>Introducing LILOG.</title>
+    <pages>3-13</pages>
+    <year>1991</year>
+    <crossref>journals/lncs/1991-546</crossref>
+    <booktitle>Text Understanding in LILOG</booktitle>
+    <url>db/journals/lncs/lncs546.html#RollingerH91</url>
+    <ee>https://doi.org/10.1007/3-540-54594-8_46</ee>
+</inproceedings><inproceedings mdate="2017-05-20" key="journals/lncs/BhargavaJSD93">
+    <author>Bharat K. Bhargava</author>
+    <author>Yin-he Jiang</author>
+    <author>Jagannathan Srinivasan</author>
+    <author>Prasun Dewan</author>
+    <title>Transition From A Relation To Object Model Implementation.</title>
+    <pages>87-103</pages>
+    <year>1993</year>
+    <crossref>journals/lncs/1993-759</crossref>
+    <booktitle>Advanced Database Systems</booktitle>
+    <url>db/journals/lncs/lncs759.html#BhargavaJSD93</url>
+    <ee>https://doi.org/10.1007/3-540-57507-3_5</ee>
+</inproceedings><proceedings mdate="2019-05-14" key="journals/lncs/1991-546">
+    <editor orcid="0000-0003-4781-2551">Otthein Herzog</editor>
+    <editor>Claus-Rainer Rollinger</editor>
+    <title>Text Understanding in LILOG, Integrating Computational Linguistics and Artificial Intelligence, Final Report on the IBM Germany LILOG-Project</title>
+    <booktitle>Text Understanding in LILOG</booktitle>
+    <series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+    <volume>546</volume>
+    <publisher>Springer</publisher>
+    <year>1991</year>
+    <isbn>3-540-54594-8</isbn>
+    <ee>https://doi.org/10.1007/3-540-54594-8</ee>
+    <url>db/journals/lncs/lncs546.html</url>
+</proceedings><inproceedings mdate="2017-05-20" key="journals/lncs/DorreR91">
+    <author>Jochen D&ouml;rre</author>
+    <author>Ingo Raasch</author>
+    <title>The STUF Workbench.</title>
+    <pages>55-62</pages>
+    <year>1991</year>
+    <crossref>journals/lncs/1991-546</crossref>
+    <booktitle>Text Understanding in LILOG</booktitle>
+    <url>db/journals/lncs/lncs546.html#DorreR91</url>
+    <ee>https://doi.org/10.1007/3-540-54594-8_51</ee>
+</inproceedings><inproceedings mdate="2017-05-20" key="journals/lncs/Emde91">
+    <author>Werner Emde</author>
+    <title>Managing Lexical Knowledge in LEU/2.</title>
+    <pages>167-179</pages>
+    <year>1991</year>
+    <crossref>journals/lncs/1991-546</crossref>
+    <booktitle>Text Understanding in LILOG</booktitle>
+    <url>db/journals/lncs/lncs546.html#Emde91</url>
+    <ee>https://doi.org/10.1007/3-540-54594-8_60</ee>
+</inproceedings>
+    <proceedings mdate="2019-05-14" key="journals/lncs/1994-910">
+    <editor>Andreas Podelski</editor>
+    <title>Constraint Programming: Basics and Trends, Ch&acirc;tillon Spring School, Ch&acirc;tillon-sur-Seine, France, May 16 - 20, 1994, Selected Papers</title>
+    <booktitle>Constraint Programming</booktitle>
+    <series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+    <volume>910</volume>
+    <publisher>Springer</publisher>
+    <year>1995</year>
+    <isbn>3-540-59155-9</isbn>
+    <ee>https://doi.org/10.1007/3-540-59155-9</ee>
+    <url>db/journals/lncs/lncs910.html</url>
+</proceedings>
+    <proceedings mdate="2019-05-14" key="journals/lncs/1993-759">
+        <editor>Nabil R. Adam</editor>
+        <editor>Bharat K. Bhargava</editor>
+        <title>Advanced Database Systems</title>
+        <booktitle>Advanced Database Systems</booktitle>
+        <series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+        <volume>759</volume>
+        <publisher>Springer</publisher>
+        <year>1993</year>
+        <isbn>3-540-57507-3</isbn>
+        <ee>https://doi.org/10.1007/3-540-57507-3</ee>
+        <url>db/journals/lncs/lncs759.html</url>
+    </proceedings>
+    <book mdate="2019-03-07" key="series/acvpr/978-1-84882-298-6">
+        <editor>Santiago Aja-Fern&aacute;ndez</editor>
+        <editor>Rodrigo de Luis Garc&iacute;a</editor>
+        <editor>Dacheng Tao</editor>
+        <editor>Xuelong Li</editor>
+        <title>Tensors in Image Processing and Computer Vision</title>
+        <publisher>Springer</publisher>
+        <series href="db/series/acvpr/index.html">Advances in Pattern Recognition</series>
+        <year>2009</year>
+        <isbn>978-1-84882-298-6</isbn>
+        <isbn>978-1-84882-299-3</isbn>
+        <ee>https://doi.org/10.1007/978-1-84882-299-3</ee>
+        <url>db/series/acvpr/tensors2009.html</url>
+    </book>
+    <book mdate="2017-05-16" key="series/acvpr/978-1-4471-5627-7">
+        <editor>Marcello Pelillo</editor>
+        <title>Similarity-Based Pattern Analysis and Recognition</title>
+        <booktitle>Similarity-Based Pattern Analysis and Recognition</booktitle>
+        <year>2013</year>
+        <publisher>Springer</publisher>
+        <series href="db/series/acvpr/index.html">Advances in Computer Vision and Pattern Recognition</series>
+        <ee>https://doi.org/10.1007/978-1-4471-5628-4</ee>
+        <isbn>978-1-4471-5627-7</isbn>
+        <url>db/series/acvpr/simbad2013.html</url>
+    </book><book mdate="2017-05-16" key="series/acvpr/978-1-4471-5185-2">
+    <author>Chris Aldrich</author>
+    <author>Lidia Auret</author>
+    <title>Unsupervised Process Monitoring and Fault Diagnosis with Machine Learning Methods</title>
+    <year>2013</year>
+    <publisher>Springer</publisher>
+    <series href="db/series/acvpr/index.html">Advances in Computer Vision and Pattern Recognition</series>
+    <isbn>978-1-4471-5184-5</isbn>
+    <isbn>978-1-4471-5185-2</isbn>
+    <ee>https://doi.org/10.1007/978-1-4471-5185-2</ee>
+</book><book mdate="2017-05-16" key="series/acvpr/978-1-84800-278-4">
+    <author>Stan Z. Li</author>
+    <title>Markov Random Field Modeling in Image Analysis.</title>
+    <year>2009</year>
+    <publisher>Springer</publisher>
+    <series href="db/series/acvpr/index.html">Advances in Pattern Recognition</series>
+    <isbn>978-1-84800-278-4</isbn>
+    <isbn>978-1-84800-279-1</isbn>
+    <ee>https://doi.org/10.1007/978-1-84800-279-1</ee>
+</book>
+    <phdthesis mdate="2020-01-31" key="series/faia/2005-148">
+        <author>Kristian Kersting</author>
+        <title>An Inductive Logic Programming Approach to Statistical Relational Learning</title>
+        <year>2005</year>
+        <pages>1-228</pages>
+        <publisher>IOS Press</publisher>
+        <series href="db/series/faia/index.html">Frontiers in Artificial Intelligence and Applications</series>
+        <volume>148</volume>
+        <school>University of Freiburg, Germany</school>
+        <isbn>978-1-58603-674-4</isbn>
+        <ee>http://www.booksonline.iospress.nl/Content/View.aspx?piid=96</ee>
+        <ee>http://d-nb.info/983957975</ee>
+    </phdthesis>
+    <phdthesis mdate="2020-02-12" key="series/lnbip/Weber09">
+        <author orcid="0000-0002-4833-5921">Ingo M. Weber</author>
+        <title>Semantic Methods for Execution-level Business Process Modeling - Modeling Support Through Process Verification and Service Composition</title>
+        <volume>40</volume>
+        <year>2009</year>
+        <pages>3-231</pages>
+        <school>Karlsruhe Institute of Technology, Germany</school>
+        <publisher>Springer</publisher>
+        <series href="db/series/lnbip/index.html">Lecture Notes in Business Information Processing</series>
+        <isbn>978-3-642-05084-8</isbn>
+        <isbn>978-3-642-05085-5</isbn>
+        <ee>https://doi.org/10.1007/978-3-642-05085-5</ee>
+        <ee>https://nbn-resolving.org/urn:nbn:de:1111-20091214234</ee>
+        <ee>http://d-nb.info/998030961</ee>
+        <ee>http://d-nb.info/999067885</ee>
+        <ee>https://www.wikidata.org/entity/Q58196259</ee>
+    </phdthesis>
+    <phdthesis mdate="2017-01-09" key="books/daglib/0068994">
+        <author>Ulrich Junker</author>
+        <title>Relationships between assumptions.</title>
+        <pages>I-VI, 1-187</pages>
+        <school>Kaiserslautern University of Technology, Germany</school>
+        <year>1992</year>
+        <ee>http://d-nb.info/930724283</ee>
+    </phdthesis>
+    <mastersthesis mdate="2019-07-26" key="phd/ndltd/Pontes11a">
+        <author>Rodrigo Pastl Pontes</author>
+        <title>Contribui&ccedil;&otilde;es do model checking e da metodologia CoFi para o software embarcado espacial.</title>
+        <year>2011</year>
+        <school>Instituto Tecnol&oacute;gico de Aeron&aacute;utica, S&atilde;o Jos&eacute; dos Campos, S&atilde;o Paulo, Brazil</school>
+        <ee>http://www.bd.bibl.ita.br/tde_busca/arquivo.php?codArquivo=1138</ee>
+        <ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_ITA:oai:ita.br:1138</ee>
+        <note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_ITA:oai:ita.br:1138)</note>
+    </mastersthesis>
+    <mastersthesis mdate="2019-07-16" key="phd/ndltd/Coorg94">
+        <author>Satyan R. Coorg</author>
+        <title>Partitioning non-strict languages for multi-threaded code generation.</title>
+        <year>1994</year>
+        <school>Massachusetts Institute of Technology, Cambridge, USA</school>
+        <ee>http://hdl.handle.net/1721.1/32607</ee>
+        <note type="source">ndltd.org (oai:dspace.mit.edu:1721.1/32607)</note>
+    </mastersthesis>
+    <article mdate="2020-03-04" key="journals/ife/BalajiGVB11">
+        <author>Pavan Balaji</author>
+        <author>Rinku Gupta</author>
+        <author>Abhinav Vishnu</author>
+        <author>Peter H. Beckman</author>
+        <title>Mapping communication layouts to network hardware characteristics on massive-scale blue gene systems.</title>
+        <pages>247-256</pages>
+        <year>2011</year>
+        <volume>26</volume>
+        <journal>Comput. Sci. Res. Dev.</journal>
+        <number>3-4</number>
+        <ee>https://doi.org/10.1007/s00450-011-0168-y</ee>
+        <url>db/journals/ife/ife26.html#BalajiGVB11</url>
+    </article>
+    <article mdate="2020-03-02" key="journals/concurrency/HagerKVW16">
+        <author>Georg Hager</author>
+        <author>Darren J. Kerbyson</author>
+        <author>Abhinav Vishnu</author>
+        <author>Gerhard Wellein</author>
+        <title>Performance and power for highly parallel systems.</title>
+        <pages>187-188</pages>
+        <year>2016</year>
+        <volume>28</volume>
+        <journal>Concurr. Comput. Pract. Exp.</journal>
+        <number>2</number>
+        <ee>https://doi.org/10.1002/cpe.3761</ee>
+        <url>db/journals/concurrency/concurrency28.html#HagerKVW16</url>
+    </article>
+    <article mdate="2020-03-02" key="journals/concurrency/VishnuKMMNP09">
+        <author>Abhinav Vishnu</author>
+        <author>Matthew J. Koop</author>
+        <author>Adam Moody</author>
+        <author>Amith R. Mamidala</author>
+        <author>Sundeep Narravula</author>
+        <author>Dhabaleswar K. Panda</author>
+        <title>Topology agnostic hot-spot avoidance with InfiniBand.</title>
+        <pages>301-319</pages>
+        <year>2009</year>
+        <volume>21</volume>
+        <journal>Concurr. Comput. Pract. Exp.</journal>
+        <number>3</number>
+        <ee>https://doi.org/10.1002/cpe.1359</ee>
+        <url>db/journals/concurrency/concurrency21.html#VishnuKMMNP09</url>
+    </article>
+    <article mdate="2018-09-13" key="journals/datamine/SunVCSP18">
+        <author orcid="0000-0002-7214-0665">Jiankai Sun</author>
+        <author>Abhinav Vishnu</author>
+        <author>Aniket Chakrabarti</author>
+        <author>Charles Siegel</author>
+        <author>Srinivasan Parthasarathy 0001</author>
+        <title>ColdRoute: effective routing of cold questions in stack exchange sites.</title>
+        <pages>1339-1367</pages>
+        <year>2018</year>
+        <volume>32</volume>
+        <journal>Data Min. Knowl. Discov.</journal>
+        <number>5</number>
+        <ee>https://doi.org/10.1007/s10618-018-0577-7</ee>
+        <url>db/journals/datamine/datamine32.html#SunVCSP18</url>
+    </article>
+    <article mdate="2017-05-20" key="journals/micro/LiuMVP05">
+        <author>Jiuxing Liu</author>
+        <author>Amith R. Mamidala</author>
+        <author>Abhinav Vishnu</author>
+        <author>Dhabaleswar K. Panda</author>
+        <title>Evaluating InfiniBand Performance with PCI Express.</title>
+        <pages>20-29</pages>
+        <year>2005</year>
+        <volume>25</volume>
+        <journal>IEEE Micro</journal>
+        <number>1</number>
+        <ee>https://doi.org/10.1109/MM.2005.9</ee>
+        <ee>http://doi.ieeecomputersociety.org/10.1109/MM.2005.9</ee>
+        <url>db/journals/micro/micro25.html#LiuMVP05</url>
+    </article>
+    <article mdate="2020-05-22" key="journals/tjs/VishnuSMBKCB13">
+        <author>Abhinav Vishnu</author>
+        <author>Shuaiwen Song</author>
+        <author>Andres Marquez</author>
+        <author>Kevin J. Barker</author>
+        <author>Darren J. Kerbyson</author>
+        <author>Kirk W. Cameron</author>
+        <author>Pavan Balaji</author>
+        <title>Designing energy efficient communication runtime systems: a view from PGAS models.</title>
+        <pages>691-709</pages>
+        <year>2013</year>
+        <volume>63</volume>
+        <journal>J. Supercomput.</journal>
+        <number>3</number>
+        <ee>https://doi.org/10.1007/s11227-011-0699-9</ee>
+        <url>db/journals/tjs/tjs63.html#VishnuSMBKCB13</url>
+    </article>
+    <article mdate="2020-05-22" key="journals/tjs/VishnuBC13">
+        <author>Abhinav Vishnu</author>
+        <author>Pavan Balaji</author>
+        <author orcid="0000-0002-9961-9051">Yong Chen 0001</author>
+        <title>Guest Editors' introduction.</title>
+        <pages>323-325</pages>
+        <year>2013</year>
+        <volume>63</volume>
+        <journal>J. Supercomput.</journal>
+        <number>2</number>
+        <ee type="oa">https://doi.org/10.1007/s11227-012-0743-4</ee>
+        <url>db/journals/tjs/tjs63.html#VishnuBC13</url>
+    </article>
+    <article mdate="2020-04-01" key="journals/jcc/GohHV17">
+        <author orcid="0000-0002-8858-0868">Garrett B. Goh</author>
+        <author>Nathan O. Hodas</author>
+        <author>Abhinav Vishnu</author>
+        <title>Deep learning for computational chemistry.</title>
+        <pages>1291-1307</pages>
+        <year>2017</year>
+        <volume>38</volume>
+        <journal>J. Comput. Chem.</journal>
+        <number>16</number>
+        <ee>https://doi.org/10.1002/jcc.24764</ee>
+        <ee>https://www.wikidata.org/entity/Q30399624</ee>
+        <url>db/journals/jcc/jcc38.html#GohHV17</url>
+    </article>
+    <article mdate="2020-03-12" key="journals/ijhpca/BalajiV11a">
+        <author>Pavan Balaji</author>
+        <author>Abhinav Vishnu</author>
+        <title>Special Issue on Programming Models, Software and Tools for High-End Computing.</title>
+        <pages>353-354</pages>
+        <year>2011</year>
+        <volume>25</volume>
+        <journal>Int. J. High Perform. Comput. Appl.</journal>
+        <number>4</number>
+        <ee>https://doi.org/10.1177/1094342011414549</ee>
+        <url>db/journals/ijhpca/ijhpca25.html#BalajiV11a</url>
+    </article>
+    <article mdate="2020-03-12" key="journals/ijhpca/BalajiV11">
+        <author>Pavan Balaji</author>
+        <author>Abhinav Vishnu</author>
+        <title>Special Issue on Programming Models and Systems Software Support for High-End Computing Applications.</title>
+        <pages>135-136</pages>
+        <year>2011</year>
+        <volume>25</volume>
+        <journal>Int. J. High Perform. Comput. Appl.</journal>
+        <number>2</number>
+        <ee>https://doi.org/10.1177/1094342010369453</ee>
+        <url>db/journals/ijhpca/ijhpca25.html#BalajiV11</url>
+    </article>
+    <article mdate="2020-08-12" key="journals/computer/KerbysonVBH11">
+        <author>Darren J. Kerbyson</author>
+        <author>Abhinav Vishnu</author>
+        <author>Kevin J. Barker</author>
+        <author>Adolfy Hoisie</author>
+        <title>Codesign Challenges for Exascale Systems: Performance, Power, and Reliability.</title>
+        <pages>37-43</pages>
+        <year>2011</year>
+        <volume>44</volume>
+        <journal>Computer</journal>
+        <number>11</number>
+        <ee>https://doi.org/10.1109/MC.2011.298</ee>
+        <ee>http://doi.ieeecomputersociety.org/10.1109/MC.2011.298</ee>
+        <url>db/journals/computer/computer44.html#KerbysonVBH11</url>
+    </article>
+    <article mdate="2020-02-22" key="journals/jpdc/DailyKKV15">
+        <author orcid="0000-0001-6212-5173">Jeff Daily</author>
+        <author>Ananth Kalyanaraman</author>
+        <author>Sriram Krishnamoorthy</author>
+        <author>Abhinav Vishnu</author>
+        <title>A work stealing based approach for enabling scalable optimal sequence homology detection.</title>
+        <pages>132-142</pages>
+        <year>2015</year>
+        <volume>79-80</volume>
+        <journal>J. Parallel Distributed Comput.</journal>
+        <ee type="oa">https://doi.org/10.1016/j.jpdc.2014.08.009</ee>
+        <url>db/journals/jpdc/jpdc79.html#DailyKKV15</url>
+    </article>
+    <article mdate="2020-02-22" key="journals/pc/BalajiVC16">
+        <author>Pavan Balaji</author>
+        <author>Abhinav Vishnu</author>
+        <author orcid="0000-0002-9961-9051">Yong Chen 0001</author>
+        <title>Special Issue on Parallel Programming Models and Systems Software for High-End Computing.</title>
+        <pages>1-2</pages>
+        <year>2016</year>
+        <volume>51</volume>
+        <journal>Parallel Comput.</journal>
+        <ee>https://doi.org/10.1016/j.parco.2016.01.004</ee>
+        <url>db/journals/pc/pc51.html#BalajiVC16</url>
+    </article>
+    <article mdate="2020-04-16" key="journals/pnas/DerM15">
+        <author>Ralf Der</author>
+        <author>Georg Martius</author>
+        <title>Novel plasticity rule can explain the development of sensorimotor intelligence.</title>
+        <pages>E6224-E6232</pages>
+        <year>2015</year>
+        <volume>112</volume>
+        <journal>Proc. Natl. Acad. Sci. USA</journal>
+        <number>45</number>
+        <ee>https://doi.org/10.1073/pnas.1508400112</ee>
+        <ee>https://www.wikidata.org/entity/Q27322028</ee>
+        <url>db/journals/pnas/pnas112.html#DerM15</url>
+    </article>
+    <article mdate="2019-01-01" key="journals/corr/abs-1812-06775" publtype="informal">
+        <author>Michal Rolinek</author>
+        <author>Dominik Zietlow</author>
+        <author>Georg Martius</author>
+        <title>Variational Autoencoders Pursue PCA Directions (by Accident).</title>
+        <year>2018</year>
+        <volume>abs/1812.06775</volume>
+        <journal>CoRR</journal>
+        <ee type="oa">http://arxiv.org/abs/1812.06775</ee>
+        <url>db/journals/corr/corr1812.html#abs-1812-06775</url>
+    </article>
+    <article mdate="2018-08-13" key="journals/corr/MartiusO15" publtype="informal">
+        <author>Georg Martius</author>
+        <author>Eckehard Olbrich</author>
+        <title>Quantifying Emergent Behavior of Autonomous Robots.</title>
+        <year>2015</year>
+        <volume>abs/1510.01495</volume>
+        <journal>CoRR</journal>
+        <ee type="oa">http://arxiv.org/abs/1510.01495</ee>
+        <url>db/journals/corr/corr1510.html#MartiusO15</url>
+    </article><article mdate="2018-08-13" key="journals/corr/abs-1802-00295" publtype="informal">
+    <author>Sahar Aljalbout</author>
+    <author>Gilles Falquet</author>
+    <title>A Semantic Model for Historical Manuscripts.</title>
+    <year>2018</year>
+    <volume>abs/1802.00295</volume>
+    <journal>CoRR</journal>
+    <ee type="oa">http://arxiv.org/abs/1802.00295</ee>
+    <url>db/journals/corr/corr1802.html#abs-1802-00295</url>
+</article>
+
+
+    <article mdate="2020-02-22" key="journals/pc/BalajiVC16">
+        <author>Pavan Balaji</author>
+        <author>Abhinav Vishnu</author>
+        <author orcid="0000-0002-9961-9051">Yong Chen 0001</author>
+        <title>Special Issue on Parallel Programming Models and Systems Software for High-End Computing.</title>
+        <pages>1-2</pages>
+        <year>2014</year>
+        <volume>51</volume>
+        <journal>Parallel Comput.</journal>
+        <ee>https://doi.org/10.1016/j.parco.2016.01.004</ee>
+        <url>db/journals/pc/pc51.html#BalajiVC16</url>
+    </article>
+    <article mdate="2020-02-22" key="journals/pc/BalajiVC16">
+        <author>Pavan Balaji</author>
+        <author>Abhinav Vishnu</author>
+        <author orcid="0000-0002-9961-9051">Yong Chen 0001</author>
+        <title>Special Issue on Parallel Programming Models and Systems Software for High-End Computing.</title>
+        <pages>1-2</pages>
+        <year>2014</year>
+        <volume>51</volume>
+        <journal>Parallel Comput.</journal>
+        <ee>https://doi.org/10.1016/j.parco.2016.01.004</ee>
+        <url>db/journals/pc/pc51.html#BalajiVC16</url>
+    </article>
+    <article mdate="2020-02-22" key="journals/pc/BalajiVC16">
+        <author>Pavan Balaji</author>
+        <author>Abhinav Vishnu</author>
+        <author orcid="0000-0002-9961-9051">Yong Chen 0001</author>
+        <title>Special Issue on Parallel Programming Models and Systems Software for High-End Computing.</title>
+        <pages>1-2</pages>
+        <year>2012</year>
+        <volume>51</volume>
+        <journal>Parallel Comput.</journal>
+        <ee>https://doi.org/10.1016/j.parco.2016.01.004</ee>
+        <url>db/journals/pc/pc51.html#BalajiVC16</url>
+    </article>
+    <article mdate="2020-02-22" key="journals/pc/BalajiVC16">
+        <author>Pavan Balaji</author>
+        <author>Abhinav Vishnu</author>
+        <author orcid="0000-0002-9961-9051">Yong Chen 0001</author>
+        <title>Special Issue on Parallel Programming Models and Systems Software for High-End Computing.</title>
+        <pages>1-2</pages>
+        <year>2010</year>
+        <volume>51</volume>
+        <journal>Parallel Comput.</journal>
+        <ee>https://doi.org/10.1016/j.parco.2016.01.004</ee>
+        <url>db/journals/pc/pc51.html#BalajiVC16</url>
+    </article>
+    <article mdate="2020-02-22" key="journals/pc/BalajiVC16">
+        <author>Pavan Balaji</author>
+        <author>Abhinav Vishnu</author>
+        <author orcid="0000-0002-9961-9051">Yong Chen 0001</author>
+        <title>Special Issue on Parallel Programming Models and Systems Software for High-End Computing.</title>
+        <pages>1-2</pages>
+        <year>2019</year>
+        <volume>51</volume>
+        <journal>Parallel Comput.</journal>
+        <ee>https://doi.org/10.1016/j.parco.2016.01.004</ee>
+        <url>db/journals/pc/pc51.html#BalajiVC16</url>
+    </article>
+    <article mdate="2020-02-22" key="journals/pc/BalajiVC16">
+        <author>Pavan Balaji</author>
+        <author>Abhinav Vishnu</author>
+        <author orcid="0000-0002-9961-9051">Yong Chen 0001</author>
+        <title>Special Issue on Parallel Programming Models and Systems Software for High-End Computing.</title>
+        <pages>1-2</pages>
+        <year>2020</year>
+        <volume>51</volume>
+        <journal>Parallel Comput.</journal>
+        <ee>https://doi.org/10.1016/j.parco.2016.01.004</ee>
+        <url>db/journals/pc/pc51.html#BalajiVC16</url>
+    </article>
+    <article mdate="2018-08-13" key="journals/corr/MartiusO15" publtype="informal">
+        <author>Georg Martius</author>
+        <author>Eckehard Olbrich</author>
+        <title>Quantifying Emergent Behavior of Autonomous Robots.</title>
+        <year>2005</year>
+        <volume>abs/1510.01495</volume>
+        <journal>CoRR</journal>
+        <ee type="oa">http://arxiv.org/abs/1510.01495</ee>
+        <url>db/journals/corr/corr1510.html#MartiusO15</url>
+    </article>
+    <article mdate="2018-08-13" key="journals/corr/MartiusO15" publtype="informal">
+        <author>Georg Martius</author>
+        <author>Eckehard Olbrich</author>
+        <title>Quantifying Emergent Behavior of Autonomous Robots.</title>
+        <year>2010</year>
+        <volume>abs/1510.01495</volume>
+        <journal>CoRR</journal>
+        <ee type="oa">http://arxiv.org/abs/1510.01495</ee>
+        <url>db/journals/corr/corr1510.html#MartiusO15</url>
+    </article>
+    <article mdate="2018-08-13" key="journals/corr/MartiusO15" publtype="informal">
+        <author>Georg Martius</author>
+        <author>Eckehard Olbrich</author>
+        <title>Quantifying Emergent Behavior of Autonomous Robots.</title>
+        <year>2014</year>
+        <volume>abs/1510.01495</volume>
+        <journal>CoRR</journal>
+        <ee type="oa">http://arxiv.org/abs/1510.01495</ee>
+        <url>db/journals/corr/corr1510.html#MartiusO15</url>
+    </article>
+    <article mdate="2018-08-13" key="journals/corr/MartiusO15" publtype="informal">
+        <author>Georg Martius</author>
+        <author>Eckehard Olbrich</author>
+        <title>Quantifying Emergent Behavior of Autonomous Robots.</title>
+        <year>2016</year>
+        <volume>abs/1510.01495</volume>
+        <journal>CoRR</journal>
+        <ee type="oa">http://arxiv.org/abs/1510.01495</ee>
+        <url>db/journals/corr/corr1510.html#MartiusO15</url>
+    </article>
+    <article mdate="2018-08-13" key="journals/corr/MartiusO15" publtype="informal">
+        <author>Georg Martius</author>
+        <author>Eckehard Olbrich</author>
+        <title>Quantifying Emergent Behavior of Autonomous Robots.</title>
+        <year>2009</year>
+        <volume>abs/1510.01495</volume>
+        <journal>CoRR</journal>
+        <ee type="oa">http://arxiv.org/abs/1510.01495</ee>
+        <url>db/journals/corr/corr1510.html#MartiusO15</url>
+    </article>
+    <article mdate="2018-08-13" key="journals/corr/MartiusO15" publtype="informal">
+        <author>Georg Martius</author>
+        <author>Eckehard Olbrich</author>
+        <title>Quantifying Emergent Behavior of Autonomous Robots.</title>
+        <year>2008</year>
+        <volume>abs/1510.01495</volume>
+        <journal>CoRR</journal>
+        <ee type="oa">http://arxiv.org/abs/1510.01495</ee>
+        <url>db/journals/corr/corr1510.html#MartiusO15</url>
+    </article>
+    <article mdate="2018-08-13" key="journals/corr/MartiusO15" publtype="informal">
+        <author>Georg Martius</author>
+        <author>Eckehard Olbrich</author>
+        <title>Quantifying Emergent Behavior of Autonomous Robots.</title>
+        <year>2011</year>
+        <volume>abs/1510.01495</volume>
+        <journal>CoRR</journal>
+        <ee type="oa">http://arxiv.org/abs/1510.01495</ee>
+        <url>db/journals/corr/corr1510.html#MartiusO15</url>
+    </article>
+    <article mdate="2018-08-13" key="journals/corr/MartiusO15" publtype="informal">
+        <author>Georg Martius</author>
+        <author>Eckehard Olbrich</author>
+        <title>Quantifying Emergent Behavior of Autonomous Robots.</title>
+        <year>2007</year>
+        <volume>abs/1510.01495</volume>
+        <journal>CoRR</journal>
+        <ee type="oa">http://arxiv.org/abs/1510.01495</ee>
+        <url>db/journals/corr/corr1510.html#MartiusO15</url>
+    </article>
+    <article mdate="2018-08-13" key="journals/corr/MartiusO15" publtype="informal">
+        <author>Georg Martius</author>
+        <author>Eckehard Olbrich</author>
+        <title>Quantifying Emergent Behavior of Autonomous Robots.</title>
+        <year>2006</year>
+        <volume>abs/1510.01495</volume>
+        <journal>CoRR</journal>
+        <ee type="oa">http://arxiv.org/abs/1510.01495</ee>
+        <url>db/journals/corr/corr1510.html#MartiusO15</url>
+    </article>
+    <article mdate="2018-08-13" key="journals/corr/MartiusO15" publtype="informal">
+        <author>Georg Martius</author>
+        <author>Eckehard Olbrich</author>
+        <title>Quantifying Emergent Behavior of Autonomous Robots.</title>
+        <year>2012</year>
+        <volume>abs/1510.01495</volume>
+        <journal>CoRR</journal>
+        <ee type="oa">http://arxiv.org/abs/1510.01495</ee>
+        <url>db/journals/corr/corr1510.html#MartiusO15</url>
+    </article>
+    <article mdate="2018-08-13" key="journals/corr/MartiusO15" publtype="informal">
+        <author>Georg Martius</author>
+        <author>Eckehard Olbrich</author>
+        <title>Quantifying Emergent Behavior of Autonomous Robots.</title>
+        <year>2013</year>
+        <volume>abs/1510.01495</volume>
+        <journal>CoRR</journal>
+        <ee type="oa">http://arxiv.org/abs/1510.01495</ee>
+        <url>db/journals/corr/corr1510.html#MartiusO15</url>
+    </article>
+</dblp>
